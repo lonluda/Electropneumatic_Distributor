@@ -9,4 +9,4 @@ requiring pneumatic actuations for proper operation. Developed and implemented t
 ## Designed using LibrePCB
 
 <img width="500" height="600" alt="pcb_preview" src="https://github.com/user-attachments/assets/ef9d77d1-5011-45f6-b713-43080f6f400e" />
-<img width="500" max-height="500" alt="pcb_preview2" src="https://github.com/user-attachments/assets/62c6f173-c22c-4a1b-a14c-ad545dc055b5" /> <br>
+<img width="500" height="600" alt="pcb_preview2" src="https://github.com/user-attachments/assets/62c6f173-c22c-4a1b-a14c-ad545dc055b5" /> <br>
