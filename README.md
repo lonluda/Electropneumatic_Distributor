@@ -1,6 +1,6 @@
 # Electropneumatic_Distributor
 
-<center><img width="600" alt="0" src="https://github.com/user-attachments/assets/32afa20d-9289-4b98-82a1-3083add5feca" /></center>
+<img align="center" width="600" alt="0" src="https://github.com/user-attachments/assets/32afa20d-9289-4b98-82a1-3083add5feca" />
 
 
 IT: Progetto elettropneumatico per il controllo del sistema idraulico installato in post vendita su veicoli industriali, 
