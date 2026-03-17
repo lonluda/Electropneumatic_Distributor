@@ -27,6 +27,12 @@ requiring pneumatic actuations for proper operation. Developed and implemented t
 <img width="500" alt="test" src="https://github.com/user-attachments/assets/ba1ee8bf-2ac9-4695-b75c-7e87aa706588" />
 <img width="500" alt="IMG_2673 (1)" src="https://github.com/user-attachments/assets/0f003291-741f-4798-8656-03eaae3e4700" />
 
-
-
 ### Second Prototype
+<img width="500" alt="IMG_2743 (1)" src="https://github.com/user-attachments/assets/786632fe-1102-49c7-89ce-3c8de58e862e" />
+<img width="500" alt="IMG_2731 (1)" src="https://github.com/user-attachments/assets/b0d15af5-d3b4-4932-a0f6-32ccf154d790" />
+<img width="500" alt="IMG_2740 (1)" src="https://github.com/user-attachments/assets/05a0d19b-6bd9-4f69-b54b-8f1ef5d7e046" />
+<img width="500" alt="IMG_2742 (1)" src="https://github.com/user-attachments/assets/d9b5fd49-7258-4ed9-bff4-caa70a559026" />
+
+
+
+
