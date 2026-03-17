@@ -8,7 +8,7 @@ requiring pneumatic actuations for proper operation. Developed and implemented t
 
 ## Draft 
 
-<img width="1738" height="947" alt="WhatsApp Image 2024-10-17 at 12 13 54 (1)" src="https://github.com/user-attachments/assets/49f6bc43-13c4-4e8f-8a03-0443643d06af" />
+<img width="1200" alt="WhatsApp Image 2024-10-17 at 12 13 54 (1)" src="https://github.com/user-attachments/assets/49f6bc43-13c4-4e8f-8a03-0443643d06af" />
 
 ## Electrical Wirings
 
