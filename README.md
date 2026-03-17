@@ -7,7 +7,7 @@ EN: Electropneumatic project for control hydraulic system installed aftermarket 
 requiring pneumatic actuations for proper operation. Developed and implemented to address a real business need. 
 
 ## Logic Diagram
-<img width="600" alt="0" src="https://github.com/user-attachments/assets/32afa20d-9289-4b98-82a1-3083add5feca" />
+<img width="700" alt="0" src="https://github.com/user-attachments/assets/32afa20d-9289-4b98-82a1-3083add5feca" />
 
 ## Draft 
 <img width="700" alt="WhatsApp Image 2024-10-17 at 12 13 54 (1)" src="https://github.com/user-attachments/assets/49f6bc43-13c4-4e8f-8a03-0443643d06af" />
