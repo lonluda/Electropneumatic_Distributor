@@ -12,7 +12,7 @@ requiring pneumatic actuations for proper operation. Developed and implemented t
 
 ## Electrical Wirings
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/e90d12ec-49bb-41bf-b671-38030a6347be" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e90d12ec-49bb-41bf-b671-38030a6347be" />
 
 ## Designed using LibrePCB
 
