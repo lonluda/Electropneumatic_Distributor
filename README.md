@@ -6,6 +6,15 @@ IT: Progetto elettropneumatico per il controllo del sistema idraulico installato
 EN: Electropneumatic project for control hydraulic system installed aftermarket on industrial vehicles, 
 requiring pneumatic actuations for proper operation. Developed and implemented to address a real business need. 
 
+## Draft 
+
+<img width="500" height="600" alt="pcb_preview" src="https://github.com/user-attachments/assets/08a689f3-05bb-47a4-91bc-7f808de82c43" />
+
+
+## Electrical Wirings
+
+
+
 ## Designed using LibrePCB
 
 <img width="500" height="600" alt="pcb_preview" src="https://github.com/user-attachments/assets/ef9d77d1-5011-45f6-b713-43080f6f400e" />
