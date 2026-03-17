@@ -1,5 +1,8 @@
 # Electropneumatic_Distributor
 
+<center><img width="600" alt="0" src="https://github.com/user-attachments/assets/32afa20d-9289-4b98-82a1-3083add5feca" /></center>
+
+
 IT: Progetto elettropneumatico per il controllo del sistema idraulico installato in post vendita su veicoli industriali, 
  richiede azionamenti pneumatici per il corretto funzionamento. Sviluppato e implementato per rispondere a una reale esigenza aziendale. 
 
