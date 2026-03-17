@@ -8,11 +8,11 @@ requiring pneumatic actuations for proper operation. Developed and implemented t
 
 ## Draft 
 
-<img width="900" alt="WhatsApp Image 2024-10-17 at 12 13 54 (1)" src="https://github.com/user-attachments/assets/49f6bc43-13c4-4e8f-8a03-0443643d06af" />
+<img width="500" alt="WhatsApp Image 2024-10-17 at 12 13 54 (1)" src="https://github.com/user-attachments/assets/49f6bc43-13c4-4e8f-8a03-0443643d06af" />
 
 ## Electrical Wirings
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/e90d12ec-49bb-41bf-b671-38030a6347be" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/e90d12ec-49bb-41bf-b671-38030a6347be" />
 
 ## Designed using LibrePCB
 
