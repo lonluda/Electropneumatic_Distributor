@@ -16,8 +16,8 @@ requiring pneumatic actuations for proper operation. Developed and implemented t
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/e90d12ec-49bb-41bf-b671-38030a6347be" />
 
 ## Designed using LibrePCB
-<img width="300" alt="pcb_preview" src="https://github.com/user-attachments/assets/ef9d77d1-5011-45f6-b713-43080f6f400e" />
-<img width="300" alt="pcb_preview2" src="https://github.com/user-attachments/assets/d888d7be-3ba9-45f4-8c18-ce8a3be7befa" />
+<img width="350" alt="pcb_preview" src="https://github.com/user-attachments/assets/ef9d77d1-5011-45f6-b713-43080f6f400e" />
+<img width="350" alt="pcb_preview2" src="https://github.com/user-attachments/assets/d888d7be-3ba9-45f4-8c18-ce8a3be7befa" />
 
 ### First Prototype
 
